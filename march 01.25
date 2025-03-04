@@ -1,0 +1,60 @@
+I learned :
+Networking Fundamentals (2 hours)
+March 1 (Day 1): Introduction to Networking (OSI model, TCP/IP)
+* Study: CompTIA Network+ Study Guide (Chapters 1-3)
+    * https://ramtiin.ir/wp-content/uploads/2021/10/CompTIA-Network-Study-Guide-Exam-N10-007.pdf
+    * Time: 2 hours
+* Hands-on: Set up basic network (AWS Free Tier or local VM) to configure IP addressing.
+    * Resource: AWS Free Tier or create a local virtual machine using VirtualBox.
+    * Time: 1 hour
+    
+    The terms workstation , client , and host can sometimes be used interchangeably. 
+    Computers have become more and more powerful and the terms have become somewhat fuzzy because hosts can be clients
+    , workstations, servers, and more! The term host is used to describe pretty much anything that takes an IP address.
+    Also notice that the hosts can access the servers across the network, which is pretty much the general idea of having a network in the fi st place! 
+You probably picked up on the fact that there are more workstations here than servers, right? 
+Think of why that is. If you answered that it’s because one server can provide resources to what can sometimes be a huge number of individual users at the same time but workstations don’t, you nailed it!
+WANs are so important that I have dedicated an entire chapter to them: Chapter 16, “Wide Area Networks.
+By the way, fault tolerance is the capability of a computer or a network system to respond to a condition automatically, 
+often resolving it, which reduces the impact on the system. I
+f fault-tolerance measures have been implemented correctly on a network, it’s highly unlikely that any of that network’s users will know that a problem ever existed at all.
+A full mesh physical topology is least likely to have a collision, which happens when the data from two hosts trying to communicate simultaneously “collides” and gets lost.
+Know your network topologies. Know the names and descriptions of the topologies. 
+Be aware of the difference between physical networks (what humans see) and logical networks (what the equipment “sees”). 
+Know the advantages and disadvantages of the topologies. It is important to know what each topology brings to the table. 
+Knowing the various characteristics of each topology comes in handy during troubleshooting. Understand the terms LAN and WAN. 
+You need to understand when you would use a LAN and when you would use a WAN. 
+A LAN is used to connect a group of hosts together, and a WAN is used to connect various LANs together. 
+Written Lab 
+
+1. What are the three basic LAN topologies? 
+Bus, ring, and star 
+
+2. What common WAN topology often results in multiple connections to a single site (leading to a high degree of 
+fault tolerance) and has one-to-many connections? 
+Multiprotocol Label Switching (MPLS)
+
+3. What is the term for a device that shares its resources with other network devices? 
+Server 
+
+4. What network model draws a clear distinction between devices that share their resources and devices that do not? 
+Client-server 
+
+5. Which network topology or connection type can be implemented with only two endpoints? 
+Point-to-point 
+
+6. What device is generally implemented as a star topology? 
+Hub or switch 
+
+7. What does MPLS stand for? 
+Multiprotocol Label Switching 
+
+8. What does WAN stand for? 
+Wide area network
+
+9. Will a computer that shares no resources most likely be connected to the backbone or to a segment? 
+A segment 
+
+10. Which LAN topology is characterized by all devices being daisy-chained together with the devices
+at each end being connected to only one other device? 
+Bus
