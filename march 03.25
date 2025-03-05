@@ -1,0 +1,36 @@
+March 3 (Day 3): Firewalls & VPNs Introduction
+* Study: CompTIA Network+ Study Guide (Chapter 5)
+    * Time: 2 hours
+* Hands-on: Install and configure a basic firewall (e.g., using iptables on Linux or a firewall in AWS).
+    * Resource: AWS Security Groups
+    * Time: 1 hour
+
+    Hands-on Labs (2 hours per day)
+March 1-3: TryHackMe – Start "Pre-Security" Path
+* Link: TryHackMe Pre-Security Path
+* Time: 2 hours per day
+* Account: Create an account on TryHackMe
+
+Congratulations on completing Offensive Security Intro!!!
+
+Some of the tasks that are related to defensive security include:
+
+User cyber security awareness: Training users about cyber security helps protect against attacks targeting their systems.
+Documenting and managing assets: We need to know the systems and devices we must manage and protect adequately.
+Updating and patching systems: Ensuring that computers, servers, and network devices are correctly updated and patched against any known vulnerability (weakness).
+Setting up preventative security devices: firewall and intrusion prevention systems (IPS) are critical components of preventative security. Firewalls control what network traffic can go inside and what can leave the system or network. IPS blocks any network traffic that matches present rules and attack signatures.
+Setting up logging and monitoring devices: Proper network logging and monitoring are essential for detecting malicious activities and intrusions. If a new unauthorized device appears on our network, we should be able to detect it.
+There is much more to defensive security. Aside from the above, we will also cover the following related topics:
+
+Security Operations Center (SOC)
+Threat Intelligence
+Digital Forensics and Incident Response (DFIR)
+Malware Analysis
+
+Digital Forensics and Incident Response (DFIR)
+This section is about Digital Forensics and Incident Response (DFIR), and we will cover:
+
+Digital Forensics
+Incident Response
+Malware Analysis
+
