@@ -1,0 +1,34 @@
+Understand the various types of cables used in today’s networks. 
+Coaxial (other than for
+cable modems) is rarely used, but twisted-pair and fiber-optic cable are very common in
+today’s networks.
+Understand the various types of ends that are used on each type of cable.
+Coax usesBNC; twisted-pair uses RJ-11 for voice and RJ-45 for data; and fiber uses various ends,
+depending on its use.
+Describe the various types of media converters that are available. 
+These include singlemode fiber to Ethernet, multimode fiber to Ethernet, fiber to coaxial, and single-mode to
+multimode fiber.
+Understand what a T568A to T568A cable is.
+A T568A to T568A cable is also known as
+an Ethernet straight-through cable and is used to connect hosts to switches, for example.
+Understand what a T568A to T568B cable is. A T568A to T568B cable is also known as
+an Ethernet crossover cable and is used to connect switches to switches, for example.
+Define the function of a T1 crossover cable. In rare instances, you may have the need to
+run a cable between two CSU/DSUs. 
+In that case, you will need a T1 crossover cable. A T1
+cable uses pairs 1 and 2, so to connect two T1 CSU/DSU devices back-to-back requires a
+crossover cable that swap
+1. Which UTP wiring uses four twisted wire pairs (eight wires) and is rated for 250 MHz?
+2. The point at which the operational control or ownership changes from your company to a
+service provider is referred to as .
+3. Which type of cable will you use to connect two switches to each other?
+4. Which RG rating of coax is used for cable modems?
+86 Chapter 3 ■ Networking Topologies, Connectors, and Wiring Standards
+5. Which UTP uses four twisted wire pairs (eight wires), is rated for 100 MHz, and is capable
+of handling the disturbance on each pair caused by transmitting on all four pairs at the
+same time?
+6. You want to connect a host to a switch port. What type of Ethernet cable will you use?
+7. In what instance would you use T1 crossover cable?
+8. T568A uses which pins to make a connection?
+9. A crossover uses which pins to make a connection?
+10. What are two advantages of fiber-optic cabling? 
